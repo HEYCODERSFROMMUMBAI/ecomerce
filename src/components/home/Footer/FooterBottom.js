@@ -10,9 +10,9 @@ const FooterBottom = () => {
             <AiOutlineCopyright />
           </span>
           Copyright 2022 | Orebi shopping | All Rights Reserved |
-          <a href="https://reactbd.com/" target="_blank" rel="noreferrer">
+          <a href="" target="_blank" rel="noreferrer">
             <span className="ml-1 font-medium group-hover:text-primeColor">
-              Powered by ReactBD.com
+              oribs
             </span>
           </a>
         </p>
